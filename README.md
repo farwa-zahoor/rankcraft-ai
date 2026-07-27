@@ -41,3 +41,33 @@ The AI feature generates:
 - Schema recommendations
 
 ### AI System Prompt
+
+## Tools & Technologies Used
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- OpenRouter API
+- AI Language Model
+- Vercel
+
+## Screenshots
+
+### Homepage
+
+![Homepage](home.png)
+
+### Keyword Analysis
+
+![Keyword Analysis](keyword-analysis.png)
+
+### AI Article Generator
+
+![AI Article Generator](ai-article.png)
+
+## How To Run Locally
+
+Install dependencies:
+
+```bash
+npm install
