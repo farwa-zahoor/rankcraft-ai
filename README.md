@@ -63,7 +63,7 @@ The AI feature generates:
 
 ### AI Article Generator
 
-![AI studio](Ai-studio.png)
+![AI studio](AI-studio.png)
 
 ## How To Run Locally
 
