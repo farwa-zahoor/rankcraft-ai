@@ -61,7 +61,7 @@ The AI feature generates:
 
 ![Keyword Analysis](keyword-analysis.png)
 
-### AI Article Generator
+### AI Studio
 
 ![AI studio](AI-studio.png)
 
