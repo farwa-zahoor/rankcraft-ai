@@ -63,7 +63,7 @@ The AI feature generates:
 
 ### AI Studio
 
-![AI Studio](ai-feature.png)
+![AI Feature](ai-feature.png)
 
 ## How To Run Locally
 
