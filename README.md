@@ -57,10 +57,6 @@ The AI feature generates:
 
 ![Homepage](Home.png)
 
-### AI Studio
-
-![AI Studio](AI-Studio.png)
-
 
 ### Keyword Analysis
 
