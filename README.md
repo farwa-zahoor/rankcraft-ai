@@ -59,7 +59,7 @@ The AI feature generates:
 
 ### AI Studio
 
-![AI Feature](ai-feature.png)
+![AI Feature](AI-Studio.png)
 
 
 ### Keyword Analysis
