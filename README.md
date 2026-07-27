@@ -55,7 +55,7 @@ The AI feature generates:
 
 ### Homepage
 
-![Homepage](home.png)
+![Homepage](Home.png)
 
 ### Keyword Analysis
 
@@ -63,7 +63,7 @@ The AI feature generates:
 
 ### AI Article Generator
 
-![AI Article Generator](ai-article.png)
+![AI Article Generator](Ai-studio.png)
 
 ## How To Run Locally
 
