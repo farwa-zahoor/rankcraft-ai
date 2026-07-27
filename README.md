@@ -61,6 +61,9 @@ The AI feature generates:
 
 ![Keyword Analysis](keyword-analysis.png)
 
+### AI Studio
+
+![AI Feature](ai-feature.png)
 
 ## How To Run Locally
 
