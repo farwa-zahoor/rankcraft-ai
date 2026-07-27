@@ -1,22 +1,43 @@
 # RankCraft AI 🚀
 
-RankCraft AI is an AI-powered SEO assistant designed to help users analyze keywords, discover search trends, generate SEO-optimized articles, create compelling meta titles & descriptions, and enhance overall content strategy for better search engine rankings.
+## Overview
 
-## ✨ Features
+RankCraft AI is an AI-powered SEO assistant that helps content creators, bloggers, students, and businesses improve their search engine visibility.
 
-- **Keyword Analysis:** Quick insights on target keywords and search query dynamics.
-- **AI Content Generator:** Generate optimized blog posts and articles effortlessly.
-- **Meta Tag Creation:** Auto-generate SEO-friendly meta titles and meta descriptions.
-- **Modern UI:** Built with Next.js and Tailwind CSS.
+The app helps users analyze keywords, discover trends, get SEO insights, generate SEO-optimized articles, create meta titles and descriptions, and improve their content strategy using AI.
 
-## 🛠️ Tech Stack
+## Problem It Solves
 
-- **Framework:** Next.js (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **Deployment:** Vercel
+Many people struggle with SEO research, keyword selection, understanding trends, and creating optimized content.
 
-## 🚀 Live Demo
+RankCraft AI solves this problem by providing keyword analysis, trend insights, SEO recommendations, and AI-powered content generation in one platform.
 
-Check out the live deployment on Vercel:
-👉 [RankCraft AI Live Demo](https://rankcraft-ai-six.vercel.app)
+## Live Demo
+
+🔗 Live URL: Add your Vercel URL here
+
+## Features
+
+- 🔍 Keyword Analysis
+- 📈 SEO Trend Analysis
+- 🤖 AI-powered Article Generator
+- 📝 Meta Title Generation
+- 📝 Meta Description Generation
+- ❓ FAQ Generation
+- 🔗 Internal Linking Suggestions
+- 📊 SEO Recommendations
+- 🎨 Responsive Modern UI
+
+## AI Feature
+
+RankCraft AI uses OpenRouter API with an AI language model to generate SEO-friendly content.
+
+The AI feature generates:
+- SEO optimized articles
+- Search intent based content
+- Proper headings structure
+- FAQs
+- Internal linking ideas
+- Schema recommendations
+
+### AI System Prompt
