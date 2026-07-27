@@ -14,7 +14,7 @@ RankCraft AI solves this problem by providing keyword analysis, trend insights, 
 
 ## Live Demo
 
-🔗 Live URL: Add your Vercel URL here
+🔗 Live URL: https://rankcraft-ai-six.vercel.app
 
 ## Features
 
@@ -63,7 +63,7 @@ The AI feature generates:
 
 ### AI Article Generator
 
-![AI studio](Ai-studio.png)
+![AI studio](Ai studio.png)
 
 ## How To Run Locally
 
