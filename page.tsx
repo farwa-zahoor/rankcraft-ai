@@ -633,7 +633,7 @@ export default function Home() {
                   )}
 
                   {/* Data Point Dots & Labels */}
-                  {points.map((pt, idx) => {
+                {points.map((pt: any, idx: number) => {
                     const isHovered = activeHoverPoint === idx;
                     const item = trendData[idx];
 
